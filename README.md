@@ -2,7 +2,6 @@
 Everyone has a resume or a Nintendo rom of their code snippets. Why not both? This code puts a resume IN a Nintendo game - maybe for the first time ever.
 
 ## Screenshots
- ## Screenshots
 ![](https://raw.githubusercontent.com/ronaldstoner/nes-nesume/main/images/nesume-stoner-1.png)
 ![](https://raw.githubusercontent.com/ronaldstoner/nes-nesume/main/images/nesume-stoner-2.png)
 ![](https://raw.githubusercontent.com/ronaldstoner/nes-nesume/main/images/nesume-stoner-3.png)
