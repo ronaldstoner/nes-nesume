@@ -16,6 +16,9 @@ Everyone has a resume or a Nintendo rom of their code snippets. Why not both? Th
   - The world's first resume inside a NES game?
   - The world's first QR code inside a NES game?
   - Tested on fceux emulator and MiSTerFPGA hardware
+
+  ![The NESume running on a MiSTerFPGA with NES core](https://raw.githubusercontent.com/ronaldstoner/nes-nesume/main/images/fpga.jpg)  
+    The NESume running on a MiSTerFPGA with NES core
  
 ## Super Nintendo Entertainment System (SNES) ROM
 This NES-ume is also available as a Super Nintendo SNES-ume as well thanks to the magic of Project-Nested. The .SMC file can be played in any Super Nintendo emulator or online at http://retrogamesbot.com/
