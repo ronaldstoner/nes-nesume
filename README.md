@@ -13,8 +13,8 @@ Everyone has a resume or a Nintendo rom of their code snippets. Why not both? Th
   - 8-bit self portrait (notoriously hard with only 3 colors and 1 transparency layer)
   - 12 screens of custom hand drawn artwork and text, some inspired by my favorite NES games
   - Inspired assets recreated by hand as faithfully as possible
-  - The world's first resume inside an NES game?
-  - The world's first QR code inside an NES game?
+  - The world's first resume inside a NES game?
+  - The world's first QR code inside a NES game?
   - Tested on fceux emulator and MiSTerFPGA hardware
  
 ## Super Nintendo Entertainment System (SNES) ROM
