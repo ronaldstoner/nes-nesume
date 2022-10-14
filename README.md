@@ -9,11 +9,6 @@ Everyone has a resume or a Nintendo rom of their code snippets. Why not both? Th
 ![](https://raw.githubusercontent.com/ronaldstoner/nes-nesume/main/images/nesume-stoner-5.png)
 ![](https://raw.githubusercontent.com/ronaldstoner/nes-nesume/main/images/nesume-stoner-6.png)
 
-## Credits
-Nesdev code forked and referenced originally from https://github.com/cirla/nesdev
- 
-Music is various DOOM by ID Software and MegaMan songs.
- 
 ## Nintendo Entertainment System (NES) ROM
   - 8-bit self portrait (notoriously hard with only 3 colors and 1 transparency layer)
   - 12 screens of custom background artwork, some inspired by my favorite NES games
@@ -25,3 +20,9 @@ Music is various DOOM by ID Software and MegaMan songs.
 This NES-ume is also available as a Super Nintendo SNES-ume as well thanks to the magic of Project-Nested. The .SMC file can be played in any Super Nintendo emulator or online at http://retrogamesbot.com/
  
 You can find the Project-Nested NES ROM conversion utilities at https://github.com/Myself086/Project-Nested
+
+## Credits
+Nesdev code forked and referenced originally from https://github.com/cirla/nesdev
+  
+Music is various DOOM by ID Software and MegaMan songs.
+
